@@ -1,0 +1,6 @@
+{
+  "name": "GT1",
+  "description": "A short-form content platform like TikTok where users can swipe through visual posts, while local advertisers can set up targeted ad campaigns and track real-time engagement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
